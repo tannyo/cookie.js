@@ -48,7 +48,7 @@ Have a bug? Please create an [issue](https://github.com/tannyo/cookie.js/issues)
 Want to contribute? Great! Just fork the project, make your changes and open a [pull request](https://github.com/tannyo/cookie.js/pulls).
 
 ## Changelog
-* 0.10 21 Jan 2014 TKO Created by Tanny O'Haley
+* v0.10 05 Sep 2014 TKO Created by Tanny O'Haley
 
 ## License
 
