@@ -25,7 +25,7 @@ String. Value of cookie.
 
 **days**
 
-Number. Optional. Number of days the cookie is to remain persistent. If days is not provided the cookie will stay persitent for the current browser session.
+Number. Optional. Number of days the cookie is to remain persistent. If days is not provided the cookie will stay persistent for the current browser session.
 
 **path**
 
