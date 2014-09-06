@@ -1,0 +1,4 @@
+cookie.js
+=========
+
+Mange cookies
