@@ -8,7 +8,9 @@ A refactoring of code original produced by [Peter-Paul Koch](http://www.quirksmo
 
 ## Syntax
 ### cookie.get(name)
+
 **name**
+
 String. Name of cookie.
 
 ### cookie.set(name, value[, days[, path]])
