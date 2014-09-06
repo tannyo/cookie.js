@@ -12,20 +12,27 @@ A refactoring of code original produced by [Peter-Paul Koch](http://www.quirksmo
 String. Name of cookie.
 
 ### cookie.set(name, value[, days[, path]])
+
 **name**
+
 String. Name of cookie.
 
 **value**
+
 String. Value of cookie.
 
 **days**
+
 Number. Optional. Number of days the cookie is to remain persistent. If days is not provided the cookie will stay persitent for the current browser session.
 
 **path**
+
 String. Optional. The domain and path of the server the cookie should be sent to. If the path is not provided the cookie object will default the path to the root of the current domain.
 
 ### cookie.remove(name)
+
 **name**
+
 String. Name of cookie.
 
 ## Browser Support
